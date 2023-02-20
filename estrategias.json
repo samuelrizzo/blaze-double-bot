@@ -1,0 +1,14 @@
+[
+    {
+        "colors": ["P", "P"],
+        "cor": "🛑",
+        "name": "Padrão PP",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR EM VERMELHO\nPADRAO PP"
+    },    
+    {
+        "colors": ["V", "V"],
+        "cor": "⚫️",
+        "name": "Padrão VV",
+        "mensagem": "SINAL ENCONTRADO\nENTRAR EM PRETO\nPADRAO VV"
+    }
+]
