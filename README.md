@@ -55,7 +55,7 @@ Abra o arquivo estratégias.json e altere
 Você pode adicionar mais padrões e alterar a mensagem para ser enviada
 #### Arquivo .env:
 
-```json
+```bash
 TELEGRAM_TOKEN=
 TELEGRAM_CHAT_ID=
 BLAZE_API_URL=https://blaze.com/api/roulette_games/recent
