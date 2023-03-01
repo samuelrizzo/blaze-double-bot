@@ -3,8 +3,8 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-TOKEN = os.getenv("TELEGRAM_TOKEN")
-CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TOKEN = os.getenv("6132194785:AAF8xUccimMC2A-IO6ia7Gu4NRiu8vNKo0g")
+CHAT_ID = os.getenv("-1001669793604")
 
 bot = telebot.TeleBot(TOKEN)
 
